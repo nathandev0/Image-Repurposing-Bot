@@ -14,9 +14,10 @@
 
 <h2 id="contact"> ⚙️ Other Automation Solutions: </h2>
 
-- **1) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
-- **2) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
-- **3) [Badoo automation bot](https://github.com/nathandev0/Badoo_Automation_Bot)**
+- **1) [TikTok video repurposing bot](https://github.com/nathandev0/Video-Repurposing-Bot)**
+- **2) [TikTok automation bot](https://github.com/nathandev0/Tiktok_Automation_Bot)**
+- **3) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
+- **4) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
