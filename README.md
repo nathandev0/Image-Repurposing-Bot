@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/nathandev0/Image-Repurposing-Bot/blob/b0fcecf92d261d14c7481a7fb6031c08ae8b7a8e/src/demo.gif" alt="video working"/>
+</p>
 <h1 align="center"> ⬆️ Instagram Image Repurposing Bot </h1>
 <p align="center"><strong>PIL</strong>-based image repurposing bot for <strong>Instagram</strong>, <strong>Tinder</strong> and <strong>Bumble</strong></p>
 <h2 id="contact"> 👀 Functionality: </h2>
